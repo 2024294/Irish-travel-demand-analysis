@@ -1,5 +1,3 @@
-# Irish Travel Demand Analysis
-Comprehensive analysis of Irish residents’ travel demand (2000–2023) using Python, statistical methods, and machine learning to uncover travel patterns and predict tourism behavior.
 # Travel by Irish Residents : A Comprehensive Data Analysis
 
 This project presents a comprehensive analysis of travel behavior among Irish
