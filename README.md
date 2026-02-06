@@ -69,5 +69,5 @@ professional portfolio presentation.
 ---
 
 ## 👤 Author
-**Mesut Uğur**  
+**Mesut UGUR**  
 MSc Data Analytics  
